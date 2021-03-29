@@ -16,8 +16,8 @@ for (let j = 0; j<= 4; j++) {
 /* c) Create a variable called "sentence" that has an empty string, then to the array of point a), go through it with a for loop to save each word inside the sentence variable. At the end show a single alert with the complete chain. */
 let sentence = '';
 for (let i = 0; i <= 4; i++) {
- sentence = colors[i];
-  };
+    sentence += colors[i];
+};
 alert(sentence);
 
 /* d) Create an empty array and with a for loop of 10 repetitions fill the array with the repetition number, that is, at the end of the execution of the for loop there should be 10 elements within the array, from number 0 to number 9. Display the final array in the browser console. */
