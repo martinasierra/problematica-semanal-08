@@ -6,7 +6,7 @@
 let num1 = 4;
 let num2 = 8;
 let sum = num1 + num2;
-console.log('The sum of the numbers is: ', sum);
+console.log(sum);
 
 /*b) Create two variables type String and concatenate them by saving the result in a third variable*/
 let string1 = 'There is a light';
@@ -18,4 +18,4 @@ console.log(concatenatedStrings);
 let string3 = 'Hi I am a string';
 let string4 = 'I am a string too';
 let sumOfLenghts = string3.length + string4.length;
-console.log('The length of both strings is: ',sumOfLenghts);
+console.log(sumOfLenghts);
