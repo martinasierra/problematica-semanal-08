@@ -1,5 +1,5 @@
-# Radium Rocket
-## Become a QA
+## Radium Rocket - Become a QA Automation
+### Week 08
 
-### Problematica semanal 08
-### JavaScript
+#### Resolution to JavaScript exercises
+Variables and Operators - Strings- Arrays - If else - For
